@@ -14,6 +14,6 @@ int main(){
         }
     }
     media = soma/10;
-    printf("O maior salário é: %f \n", maiorSalario);
-    printf("A média é: %f", media);
+    printf("O maior salário é: %2f \n", maiorSalario);
+    printf("A média é: %2f", media);
 }
